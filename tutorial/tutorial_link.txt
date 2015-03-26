@@ -1,0 +1,18 @@
+www.codemag.com/Article/0611061
+
+http://grouplab.cpsc.ucalgary.ca/cookbook/index.php/Toolkits/SimpleExampleUsingTheRFIDReader
+
+http://www.codeproject.com/Tips/361285/Serial-Port-Communication
+
+http://www.sourcecodester.com/visual-basic-net/6674/rfid-device-vbnet.html
+
+http://stackoverflow.com/questions/9279236/how-can-i-connect-rfid-with-vb-net
+
+http://forum.putera.com/tanya/index.php?/topic/90609-coding-vbnet-utk-rfid/
+
+
+VB6 API
+
+http://stackoverflow.com/questions/4152562/exe-with-accepting-runtime-parameter
+
+http://vb.mvps.org/samples/Console/
